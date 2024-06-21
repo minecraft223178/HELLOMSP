@@ -16653,3 +16653,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 09:02:00.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Teleported JV5MD to Tinnyk]
 [21Jun2024 09:02:04.247] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [21Jun2024 09:03:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Set the weather to clear]
+[21Jun2024 09:04:10.865] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[21Jun2024 09:04:10.891] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[21Jun2024 09:04:27.242] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[21Jun2024 09:04:27.242] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[21Jun2024 09:05:01.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 09:05:01.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 09:05:05.036] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[21Jun2024 09:05:08.061] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[21Jun2024 09:05:12.975] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[21Jun2024 09:05:13.795] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[21Jun2024 09:05:14.786] [Worker-Main-2/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jun2024 09:05:14.790] [Worker-Main-2/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jun2024 09:05:14.791] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jun2024 09:05:16.221] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[21Jun2024 09:05:16.226] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[21Jun2024 09:05:17.776] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[21Jun2024 09:05:21.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has completed the challenge [Real Minecraft Starts Now (Quest)]
+[21Jun2024 09:06:20.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Stone Age]
+[21Jun2024 09:06:27.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Stone Age]
+[21Jun2024 09:06:41.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Getting an Upgrade]
+[21Jun2024 09:07:02.615] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[21Jun2024 09:07:02.615] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[21Jun2024 09:07:02.615] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[21Jun2024 09:07:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Getting an Upgrade]
+[21Jun2024 09:07:49.390] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@1507ba4d for service interface com.blamejared.clumps.platform.IEventHelper
+[21Jun2024 09:07:49.391] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@2147d26c for service interface com.blamejared.clumps.platform.IPlatformHelper
+[21Jun2024 09:08:20.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[21Jun2024 09:08:29.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Acquire Hardware]
+[21Jun2024 09:09:14.783] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[21Jun2024 09:09:14.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21Jun2024 09:09:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has completed the challenge [Smelter Skelter (Quest)]
+[21Jun2024 09:10:01.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 09:10:01.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 09:10:26.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Isn't It Iron Pick]
+[21Jun2024 09:10:28.826] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[21Jun2024 09:12:03.520] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[21Jun2024 09:12:20.489] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[21Jun2024 09:12:42.186] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Jun2024 09:12:42.211] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Jun2024 09:12:42.216] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Jun2024 09:12:42.263] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdeea08f$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
