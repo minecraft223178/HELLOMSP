@@ -3,7 +3,8 @@
 	type: "party"
 	owner: "f094a8d1-43e5-4b30-8066-cf5438a14f6a"
 	ranks: {
-		2f2b27a5-c453-4f7f-82bc-18fc5698a3fa: "invited"
+		2f2b27a5-c453-4f7f-82bc-18fc5698a3fa: "member"
+		f9793f85-3433-458e-9728-6f9fa2553631: "member"
 		f094a8d1-43e5-4b30-8066-cf5438a14f6a: "owner"
 	}
 	properties: {
@@ -28,6 +29,10 @@
 	message_history: [
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1718502810884L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"JV5MD\"}]}" }
 		{ from: "f094a8d1-43e5-4b30-8066-cf5438a14f6a", date: 1718503210688L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tinnyk\"}]}" }
+		{ from: "f094a8d1-43e5-4b30-8066-cf5438a14f6a", date: 1718963024557L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"elsive\"}]}" }
+		{ from: "f094a8d1-43e5-4b30-8066-cf5438a14f6a", date: 1718963024558L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tinnyk\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1718963027792L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tinnyk\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1718963031183L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elsive\"}]}" }
 	]
 	extra: { }
 }

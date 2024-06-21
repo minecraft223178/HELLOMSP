@@ -219,10 +219,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2024-06-21 09:46:44 +0000",
+      "minecraft:beach": "2024-06-21 09:47:50 +0000",
       "minecraft:dark_forest": "2024-06-16 01:55:58 +0000",
       "minecraft:river": "2024-06-21 09:19:07 +0000",
       "minecraft:lush_caves": "2024-06-21 09:14:02 +0000",
-      "minecraft:jungle": "2024-06-21 09:04:53 +0000"
+      "minecraft:jungle": "2024-06-21 09:04:53 +0000",
+      "minecraft:old_growth_birch_forest": "2024-06-21 09:52:29 +0000"
     },
     "done": false
   },
@@ -1330,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_potato": {
     "criteria": {
       "has_item": "2024-06-21 09:18:19 +0000"
@@ -1342,15 +1351,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "darkrpg:enderman": {
     "criteria": {
       "darkrpg_enderman": "2024-06-21 09:18:49 +0000"
     },
     "done": false
   },
+  "mcwpaths:recipes/cobbled_deepslate": {
+    "criteria": {
+      "has_wood": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2024-06-21 09:06:27 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-06-21 09:52:13 +0000"
     },
     "done": true
   },
@@ -1372,9 +1405,33 @@
     },
     "done": false
   },
+  "bonfires:recipes/misc/titanite_shard": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_items": "2024-06-21 09:43:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2024-06-21 09:18:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-06-21 09:52:14 +0000"
     },
     "done": true
   },
@@ -1402,9 +1459,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_obsidian": {
+    "criteria": {
+      "has_item": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/hunter_guidebook": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -1420,6 +1489,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
@@ -1429,6 +1504,18 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-06-21 09:19:34 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-06-21 09:51:51 +0000"
     },
     "done": true
   },
@@ -1450,9 +1537,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-06-21 09:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-06-21 09:48:03 +0000"
     },
     "done": true
   },
@@ -1480,6 +1579,18 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_gunpowder": {
+    "criteria": {
+      "has_item": "2024-06-21 09:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-06-21 09:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
@@ -1498,6 +1609,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_white_wool": {
+    "criteria": {
+      "has_item": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
@@ -1507,6 +1624,18 @@
   "bonfires:bonfires/ash_pile": {
     "criteria": {
       "killed_something_with_fire": "2024-06-21 09:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -1522,9 +1651,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2024-06-21 09:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-06-21 09:19:34 +0000"
+    },
+    "done": true
+  },
+  "usefulhats:recipes/combat/aquanaut_helmet": {
+    "criteria": {
+      "has_turtle_helmet": "2024-06-21 09:51:45 +0000"
     },
     "done": true
   },
@@ -1534,15 +1675,39 @@
     },
     "done": true
   },
+  "editenchanting:recipes/decorations/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
     "criteria": {
       "has_items": "2024-06-21 09:20:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-06-21 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -1564,6 +1729,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/rending_gale": {
+    "criteria": {
+      "has_eye_of_the_storm": "2024-06-21 09:51:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-06-21 09:18:19 +0000"
@@ -1573,6 +1756,12 @@
   "compressedblocks:recipes/misc/shaped_crated_ender_pearl": {
     "criteria": {
       "has_item": "2024-06-21 09:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -1607,6 +1796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-06-21 09:18:19 +0000"
@@ -1625,6 +1820,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/gunpowder_storm_eye": {
+    "criteria": {
+      "has_eye_of_the_storm": "2024-06-21 09:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-06-21 09:06:27 +0000"
@@ -1640,6 +1841,18 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-06-21 09:52:14 +0000"
     },
     "done": true
   },
@@ -1667,15 +1880,57 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2024-06-21 09:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_carrot": {
     "criteria": {
       "has_item": "2024-06-21 09:19:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-06-21 09:51:06 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-06-21 09:20:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-06-21 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "nyfsarcheryplus:recipes/misc/diamond_bow_upgrade": {
+    "criteria": {
+      "has_item": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -1691,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
@@ -1700,6 +1961,12 @@
   "vampirism:recipes/decorations/item_tent": {
     "criteria": {
       "has_wool": "2024-06-21 09:24:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
     },
     "done": true
   },
@@ -1745,9 +2012,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-06-21 09:51:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "grassland": "2024-06-21 09:48:36 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "generic_revelation": "2024-06-21 09:40:25 +0000"
+    },
+    "done": true
+  },
   "bonfires:recipes/building_blocks/ash_block": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:16:54 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
     },
     "done": true
   },
@@ -1763,11 +2060,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:45 +0000"
+    },
+    "done": true
+  },
   "darkrpg:more_zombie": {
     "criteria": {
       "darkrpg_more_zombie": "2024-06-21 09:18:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
@@ -1781,6 +2090,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_trampoline": {
+    "criteria": {
+      "has_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_rotten_flesh": {
     "criteria": {
       "has_item": "2024-06-21 09:18:19 +0000"
@@ -1790,6 +2105,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-06-21 09:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-06-21 09:52:14 +0000"
     },
     "done": true
   },
@@ -1817,6 +2138,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-06-21 09:18:16 +0000"
@@ -1826,6 +2153,18 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
     },
     "done": true
   },
@@ -1844,6 +2183,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:07:24 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
     },
     "done": true
   },
@@ -1889,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
@@ -1907,9 +2258,27 @@
     },
     "done": true
   },
+  "nyfsarcheryplus:recipes/misc/diamond_crossbow_upgrade": {
+    "criteria": {
+      "has_item": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2024-06-21 09:43:08 +0000"
     },
     "done": true
   },
@@ -1922,6 +2291,12 @@
   "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
       "has_string": "2024-06-21 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "grassland": "2024-06-21 09:48:36 +0000"
     },
     "done": true
   },
@@ -1955,9 +2330,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
     },
     "done": true
   },
@@ -1991,6 +2378,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-06-21 09:28:28 +0000"
@@ -2003,9 +2396,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
   "bonfires:recipes/brewing/estus_shard": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:16:00 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_mutton": {
+    "criteria": {
+      "has_item": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
     },
     "done": true
   },
@@ -2057,15 +2468,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_arrow": {
     "criteria": {
       "has_item": "2024-06-21 09:18:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
     },
     "done": true
   },
@@ -2102,6 +2537,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-06-21 09:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-06-21 09:52:14 +0000"
     },
     "done": true
   },
@@ -2159,6 +2600,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_ender_eye": {
     "criteria": {
       "has_item": "2024-06-21 09:18:51 +0000"
@@ -2171,9 +2624,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "usefulhats:recipes/combat/bunny_ears": {
     "criteria": {
       "has_carrot": "2024-06-21 09:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-06-21 09:48:00 +0000"
     },
     "done": true
   },
@@ -2192,6 +2657,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-06-21 09:18:08 +0000",
+      "minecraft:creeper": "2024-06-21 09:51:30 +0000",
       "minecraft:enderman": "2024-06-21 09:18:49 +0000",
       "minecraft:zombie": "2024-06-21 09:18:17 +0000"
     },
@@ -2209,15 +2675,39 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2024-06-21 09:18:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:45 +0000"
     },
     "done": true
   },
@@ -2239,9 +2729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-06-21 09:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-06-21 09:48:05 +0000"
     },
     "done": true
   },
@@ -2263,6 +2765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
@@ -2275,9 +2783,33 @@
     },
     "done": true
   },
+  "ava:recipes/misc/packed_gunpowder": {
+    "criteria": {
+      "has_gunpowder": "2024-06-21 09:51:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2024-06-21 09:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_flint": {
     "criteria": {
       "has_item": "2024-06-21 09:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -2302,6 +2834,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-06-21 09:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2024-06-21 09:52:14 +0000"
     },
     "done": true
   },
@@ -2335,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-06-21 09:28:28 +0000"
@@ -2347,15 +2897,39 @@
     },
     "done": true
   },
+  "nyfsarcheryplus:recipes/combat/diamond_arrowhead": {
+    "criteria": {
+      "has_item": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-06-21 09:51:45 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_eye": {
     "criteria": {
       "impossible": "2024-06-21 09:22:08 +0000"
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-06-21 09:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
     },
     "done": true
   },
@@ -2368,6 +2942,18 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-06-21 09:52:14 +0000"
     },
     "done": true
   },
@@ -2386,6 +2972,24 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-06-21 09:06:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-06-21 09:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-06-21 09:43:08 +0000"
     },
     "done": true
   },

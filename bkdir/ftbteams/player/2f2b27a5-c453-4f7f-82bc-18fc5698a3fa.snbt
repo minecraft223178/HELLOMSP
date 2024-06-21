@@ -2,9 +2,7 @@
 	id: "2f2b27a5-c453-4f7f-82bc-18fc5698a3fa"
 	type: "player"
 	player_name: "Tinnyk"
-	ranks: {
-		2f2b27a5-c453-4f7f-82bc-18fc5698a3fa: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Tinnyk"
 		"ftbteams:description": ""

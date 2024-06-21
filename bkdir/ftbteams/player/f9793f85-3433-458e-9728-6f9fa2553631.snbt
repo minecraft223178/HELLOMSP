@@ -2,9 +2,7 @@
 	id: "f9793f85-3433-458e-9728-6f9fa2553631"
 	type: "player"
 	player_name: "elsive"
-	ranks: {
-		f9793f85-3433-458e-9728-6f9fa2553631: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "elsive"
 		"ftbteams:description": ""

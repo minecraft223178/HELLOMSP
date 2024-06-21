@@ -17173,3 +17173,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 09:43:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> jinny
 [21Jun2024 09:43:59.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> jin ramyun
 [21Jun2024 09:44:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> jinny
+[21Jun2024 09:45:01.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 09:45:01.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 09:45:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Diamonds!]
+[21Jun2024 09:45:39.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported Tinnyk to JV5MD]
+[21Jun2024 09:45:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported elsive to Tinnyk]
+[21Jun2024 09:46:15.645] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[21Jun2024 09:46:15.706] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[21Jun2024 09:46:15.750] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[21Jun2024 09:46:18.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk was shot by JV5MD using FN57 Snowfall
+[21Jun2024 09:46:18.997] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Tinnyk at X: 87.6338773345927, Y: 61.7639980083968, Z: 34.279305511178066
+[21Jun2024 09:46:20.669] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:46:23.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported Tinnyk to JV5MD]
+[21Jun2024 09:46:30.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Tinnyk picking up: PermanentItemEntity['Extradimensional Vessel'/5666, l='ServerLevel[world]', x=87.63, y=63.26, z=34.28]
+[21Jun2024 09:46:30.538] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/5666, l='ServerLevel[world]', x=87.63, y=63.26, z=34.28]
+[21Jun2024 09:46:58.185] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[21Jun2024 09:47:15.563] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[21Jun2024 09:47:19.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Set the weather to clear]
+[21Jun2024 09:47:28.903] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[21Jun2024 09:47:36.172] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[21Jun2024 09:47:36.177] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[21Jun2024 09:47:38.986] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[21Jun2024 09:47:39.549] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[21Jun2024 09:47:40.332] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[21Jun2024 09:47:42.505] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Jun2024 09:47:42.842] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Jun2024 09:47:43.110] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Jun2024 09:47:45.386] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Jun2024 09:47:49.199] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[21Jun2024 09:47:49.222] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[21Jun2024 09:47:49.256] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[21Jun2024 09:47:49.296] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[21Jun2024 09:47:49.342] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Jun2024 09:47:49.364] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[21Jun2024 09:47:52.530] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[21Jun2024 09:47:58.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[21Jun2024 09:47:58.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2024 09:48:03.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Suit Up]
+[21Jun2024 09:48:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Ice Bucket Challenge]
+[21Jun2024 09:48:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Hot Stuff]
+[21Jun2024 09:48:48.460] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_2 is being run through DFU (hash fef74d5a67f077b093772e564c05a16e782b5be427b6ff15de14e17ef33dfa47), this will cause launch time delays
+[21Jun2024 09:48:56.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Suit Up]
+[21Jun2024 09:49:43.142] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.attemptInitiateCast isClient:false, spellirons_spellbooks:fang_ward(2)
+[21Jun2024 09:49:43.143] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[21Jun2024 09:49:43.145] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:fang_ward(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:fang_ward], spellLevel:2, duration:15, durationRemaining:15, source:SCROLL, type:LONG
+[21Jun2024 09:49:43.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.castSpell isClient:false, spellirons_spellbooks:fang_ward(2)
+[21Jun2024 09:49:43.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:fang_ward(2), pmd:isCasting:true, spellID:irons_spellbooks:fang_ward], spellLevel:2, duration:15, durationRemaining:0, source:SCROLL, type:LONG
+[21Jun2024 09:49:43.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:fang_ward(2), pmd:isCasting:true, spellID:irons_spellbooks:fang_ward], spellLevel:2, duration:15, durationRemaining:0, source:SCROLL, type:LONG, cancelled:false
+[21Jun2024 09:50:01.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 09:50:01.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 09:51:15.593] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[21Jun2024 09:51:45.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [How'd You Get This?]
+[21Jun2024 09:51:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has completed the challenge [Metal Sneakers (Quest)]
+[21Jun2024 09:51:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Acquire Hardware]
+[21Jun2024 09:51:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Far From Perfect]
+[21Jun2024 09:52:12.488] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[21Jun2024 09:52:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Suit Up]
+[21Jun2024 09:52:58.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk was blown up by Creeper
+[21Jun2024 09:52:58.548] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Tinnyk at X: 66.01352972770191, Y: 71.0, Z: 157.25942834860453
+[21Jun2024 09:53:01.159] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:53:35.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported Tinnyk to JV5MD]
+[21Jun2024 09:54:42.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> e.
+[21Jun2024 09:55:01.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 09:55:01.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
