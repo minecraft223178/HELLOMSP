@@ -1,0 +1,33 @@
+{
+	id: "8e775e9a-8559-489e-b891-639521f642ec"
+	type: "party"
+	owner: "f094a8d1-43e5-4b30-8066-cf5438a14f6a"
+	ranks: {
+		2f2b27a5-c453-4f7f-82bc-18fc5698a3fa: "invited"
+		f094a8d1-43e5-4b30-8066-cf5438a14f6a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JV5MD's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFBE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1718502810884L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"JV5MD\"}]}" }
+		{ from: "f094a8d1-43e5-4b30-8066-cf5438a14f6a", date: 1718503210688L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tinnyk\"}]}" }
+	]
+	extra: { }
+}
