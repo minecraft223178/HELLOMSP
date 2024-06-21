@@ -3759,3 +3759,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 09:12:20.489] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [21Jun2024 09:12:42.216] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [21Jun2024 09:12:42.263] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdeea08f$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[21Jun2024 09:16:00.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[21Jun2024 09:16:00.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[21Jun2024 09:16:00.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk was slain by Zombie
+[21Jun2024 09:16:00.255] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Tinnyk at X: -5.300000011920929, Y: -3.3556859356789137, Z: 33.43171181798485
+[21Jun2024 09:16:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has completed the challenge [This is Bonfires]
+[21Jun2024 09:16:01.892] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:16:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk was slain by Enderman
+[21Jun2024 09:16:15.399] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Tinnyk at X: -2.123000521018482, Y: 78.0, Z: 5.268352787415402
+[21Jun2024 09:16:17.283] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:16:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Acquire Ash]
+[21Jun2024 09:17:30.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk was slain by Enderman
+[21Jun2024 09:17:30.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Tinnyk at X: 39.17548569250175, Y: 64.0, Z: 55.29756833838977
+[21Jun2024 09:17:32.895] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:17:40.591] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Tinnyk picking up: PermanentItemEntity['Extradimensional Vessel'/2732, l='ServerLevel[world]', x=-2.12, y=79.50, z=5.27]
+[21Jun2024 09:17:40.592] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/2732, l='ServerLevel[world]', x=-2.12, y=79.50, z=5.27]
+[21Jun2024 09:18:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Monster Hunter]
+[21Jun2024 09:19:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk was shot by Skeleton
+[21Jun2024 09:19:07.591] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Tinnyk at X: 42.579404347729124, Y: 61.35671866011091, Z: 66.85718669263879
+[21Jun2024 09:19:09.091] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:19:22.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement ['X' Marks the Spot]
+[21Jun2024 09:19:24.190] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Tinnyk picking up: PermanentItemEntity['Extradimensional Vessel'/3367, l='ServerLevel[world]', x=42.58, y=62.86, z=66.86]
+[21Jun2024 09:19:24.191] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/3367, l='ServerLevel[world]', x=42.58, y=62.86, z=66.86]
+[21Jun2024 09:19:24.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has reached the goal [Worthy Equipment]
+[21Jun2024 09:19:24.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Apothic Affixes]
+[21Jun2024 09:19:49.690] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Tinnyk picking up: PermanentItemEntity['Extradimensional Vessel'/2946, l='ServerLevel[world]', x=39.18, y=65.50, z=55.30]
+[21Jun2024 09:19:49.691] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/2946, l='ServerLevel[world]', x=39.18, y=65.50, z=55.30]
+[21Jun2024 09:20:04.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported Tinnyk to JV5MD]
+[21Jun2024 09:20:08.938] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Tinnyk picking up: PermanentItemEntity['Extradimensional Vessel'/2681, l='ServerLevel[world]', x=-5.30, y=-1.86, z=33.43]
+[21Jun2024 09:20:08.938] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/2681, l='ServerLevel[world]', x=-5.30, y=-1.86, z=33.43]
+[21Jun2024 09:20:15.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement ['X' Marks the Spot]
+[21Jun2024 09:20:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has reached the goal [Flawless Crystals]
+[21Jun2024 09:20:18.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Not a Diamond]
+[21Jun2024 09:20:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [I Found It Underground]
+[21Jun2024 09:20:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Isn't It Iron Pick]
+[21Jun2024 09:21:30.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Apothic Affixes]
+[21Jun2024 09:24:15.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu$Arcana
