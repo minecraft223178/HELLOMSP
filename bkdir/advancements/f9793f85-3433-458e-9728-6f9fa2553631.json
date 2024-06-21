@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-06-21 10:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:51:57 +0000"
@@ -200,6 +206,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2024-06-21 10:00:26 +0000"
     },
     "done": true
   },
@@ -359,6 +371,18 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2024-06-21 10:00:26 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-06-21 10:00:26 +0000"
+    },
+    "done": true
+  },
   "bonfires:bonfires/root": {
     "criteria": {
       "died": "2024-06-21 09:38:45 +0000"
@@ -437,6 +461,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2024-06-21 10:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:51:57 +0000"
@@ -475,6 +505,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "clover_patch": "2024-06-21 09:58:35 +0000",
+      "volcanic_plains": "2024-06-21 09:57:19 +0000",
       "grassland": "2024-06-21 09:48:36 +0000"
     },
     "done": false
@@ -916,6 +948,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2024-06-21 09:59:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:46:22 +0000"
@@ -1088,6 +1126,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2024-06-21 10:00:26 +0000"
     },
     "done": true
   },

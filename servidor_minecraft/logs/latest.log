@@ -3868,3 +3868,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 09:53:01.159] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21Jun2024 09:53:35.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported Tinnyk to JV5MD]
 [21Jun2024 09:54:42.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> e.
+[21Jun2024 09:55:21.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[21Jun2024 09:55:21.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Sweet Dreams]
+[21Jun2024 09:55:50.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Gamerule playersSleepingPercentage is now set to: 0]
+[21Jun2024 09:57:12.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Mine? Mine? Mine?]
+[21Jun2024 09:57:39.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Best Friends Forever]
+[21Jun2024 09:58:50.365] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[21Jun2024 10:01:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Tower of Power]
+[21Jun2024 10:02:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Acquire Hardware]
+[21Jun2024 10:02:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has completed the challenge [Pagemaster (Quest)]

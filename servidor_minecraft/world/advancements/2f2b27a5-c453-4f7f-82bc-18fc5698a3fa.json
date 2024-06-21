@@ -357,6 +357,7 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
+      "has_parent_recipe": "2024-06-21 10:02:24 +0000",
       "is_cursed_one": "2024-06-16 01:58:20 +0000"
     },
     "done": false
@@ -1339,15 +1340,33 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_porkchop": {
+    "criteria": {
+      "has_item": "2024-06-21 09:59:56 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_potato": {
     "criteria": {
       "has_item": "2024-06-21 09:18:19 +0000"
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1381,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2024-06-21 09:52:13 +0000"
@@ -1399,6 +1424,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "darkrpg:zombie": {
     "criteria": {
       "darkrpg_zombie": "2024-06-21 09:18:17 +0000"
@@ -1413,9 +1444,22 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
+      "has_parent_recipe": "2024-06-21 10:02:24 +0000",
       "has_items": "2024-06-21 09:43:08 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
@@ -1477,6 +1521,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "adchimneys:recipes/building_blocks/stone_chimney": {
     "criteria": {
       "has_item": "2024-06-21 09:06:27 +0000"
@@ -1486,6 +1542,30 @@
   "compressedblocks:recipes/misc/shaped_crated_bone": {
     "criteria": {
       "has_item": "2024-06-21 09:18:16 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_book": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/acetone_solution": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "nyfsarcheryplus:recipes/misc/iron_crossbow_upgrade": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1501,9 +1581,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-06-21 09:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 09:59:56 +0000"
     },
     "done": true
   },
@@ -1522,6 +1614,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1579,6 +1677,12 @@
     },
     "done": true
   },
+  "ava:recipes/decorations/gun_colouring_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_gunpowder": {
     "criteria": {
       "has_item": "2024-06-21 09:51:51 +0000"
@@ -1597,9 +1701,33 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-06-21 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-06-21 10:01:48 +0000"
     },
     "done": true
   },
@@ -1639,6 +1767,12 @@
     },
     "done": true
   },
+  "nyfsarcheryplus:recipes/misc/iron_bow_upgrade": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
@@ -1675,9 +1809,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "editenchanting:recipes/decorations/enchantment_edit_table": {
     "criteria": {
       "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1693,6 +1839,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/post_box": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2024-06-21 09:43:08 +0000"
@@ -1705,9 +1863,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-06-21 10:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-06-21 10:02:24 +0000"
+    },
+    "done": false
+  },
+  "ava:recipes/misc/ceramic": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1759,9 +1935,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1787,6 +1975,30 @@
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_saddle": {
+    "criteria": {
+      "has_item": "2024-06-21 09:59:55 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/fuse": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1856,9 +2068,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/fridge_light": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-06-21 10:02:34 +0000"
     },
     "done": true
   },
@@ -1886,6 +2110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-21 09:42:46 +0000"
@@ -1895,6 +2125,18 @@
   "compressedblocks:recipes/misc/shaped_crated_carrot": {
     "criteria": {
       "has_item": "2024-06-21 09:19:32 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1913,6 +2155,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-06-21 09:20:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1937,6 +2185,12 @@
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:07:24 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/lens": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -1976,6 +2230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
@@ -1988,15 +2248,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/tools/spatula": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/work_hardened_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-06-21 09:24:39 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_wood": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2024,8 +2314,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-06-21 10:04:53 +0000",
+      "rocky_shrubland": "2024-06-21 10:05:00 +0000",
+      "clover_patch": "2024-06-21 09:59:35 +0000",
+      "volcanic_plains": "2024-06-21 09:55:43 +0000",
       "grassland": "2024-06-21 09:48:36 +0000"
     },
     "done": false
@@ -2033,6 +2333,12 @@
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
       "generic_revelation": "2024-06-21 09:40:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-21 09:59:56 +0000"
     },
     "done": true
   },
@@ -2120,15 +2426,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/dark_spruce_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_normal": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-06-21 09:19:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra_candles": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "nyfsarcheryplus:recipes/combat/iron_arrowhead": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2186,15 +2522,75 @@
     },
     "done": true
   },
+  "ava:recipes/misc/silicon": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/smoke_powder": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/combat/crafting/butcher_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-06-21 09:48:05 +0000"
     },
     "done": true
   },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-06-21 09:19:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_dark": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2234,9 +2630,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_tip": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2252,9 +2660,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_mud": {
     "criteria": {
       "has_item": "2024-06-21 09:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 09:59:56 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/compressed_wood": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2294,15 +2726,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "grassland": "2024-06-21 09:48:36 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/decorations/gun_modifying_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2318,9 +2774,33 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/weapon_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/decorations/gun_crafting_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2333,6 +2813,12 @@
   "compressedblocks:recipes/building_blocks/shaped_c0_cobbled_deepslate": {
     "criteria": {
       "has_item": "2024-06-21 09:42:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2356,9 +2842,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
+      "has_parent_recipe": "2024-06-21 10:02:24 +0000",
       "has_items": "2024-06-21 09:18:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
@@ -2390,15 +2877,63 @@
     },
     "done": true
   },
+  "ava:recipes/misc/spring": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-06-21 09:20:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_tnt": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2024-06-21 09:48:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
     },
     "done": true
   },
@@ -2411,6 +2946,18 @@
   "compressedblocks:recipes/misc/shaped_crated_mutton": {
     "criteria": {
       "has_item": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2432,6 +2979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-06-21 09:18:16 +0000"
@@ -2441,6 +2994,12 @@
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2024-06-21 09:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2471,6 +3030,18 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2552,9 +3123,27 @@
     },
     "done": true
   },
+  "ava:recipes/decorations/builders_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_lily_of_the_valley": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:06 +0000"
     },
     "done": true
   },
@@ -2563,6 +3152,12 @@
       "darkrpg_more_skeleton": "2024-06-21 09:18:08 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -2600,6 +3195,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_wood": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
       "has_obsidian": "2024-06-21 09:48:05 +0000"
@@ -2618,9 +3219,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/item_med_chair": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/infinimeal": {
     "criteria": {
       "has_the_recipe": "2024-06-21 09:23:14 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/transportation/pipe": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2648,6 +3279,36 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
+    "criteria": {
+      "iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
@@ -2663,9 +3324,33 @@
     },
     "done": false
   },
+  "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-06-21 09:18:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2678,6 +3363,18 @@
   "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
     "criteria": {
       "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2024-06-21 10:01:46 +0000"
     },
     "done": true
   },
@@ -2699,6 +3396,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/blood_container": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:07:07 +0000"
@@ -2717,15 +3426,33 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/orange_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/candle_stick": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-06-21 10:02:34 +0000"
     },
     "done": true
   },
@@ -2741,15 +3468,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:book": {
+    "criteria": {
+      "darkrpg_book": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-06-21 10:02:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-06-21 09:48:05 +0000"
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 09:59:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-06-21 09:16:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-06-21 10:02:34 +0000"
     },
     "done": true
   },
@@ -2795,6 +3570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-06-21 09:43:08 +0000"
@@ -2825,9 +3606,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-06-21 09:18:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-21 09:59:56 +0000"
     },
     "done": true
   },
@@ -2843,6 +3636,30 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_infused_enhanced_iron_ingot": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 09:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2024-06-21 09:52:14 +0000"
@@ -2852,6 +3669,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2024-06-21 09:24:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2024-06-21 10:02:34 +0000"
     },
     "done": true
   },
@@ -2891,6 +3714,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/decorations/mastery_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-06-21 09:07:24 +0000"
@@ -2915,9 +3750,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_item_frame": {
+    "criteria": {
+      "has_item": "2024-06-21 10:01:48 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2024-06-21 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/fibre": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2945,9 +3792,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-06-21 09:52:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/misc/mechanical_components": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2957,9 +3834,27 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2024-06-21 10:02:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-21 09:06:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_trampoline": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
@@ -2981,9 +3876,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_grill": {
+    "criteria": {
+      "has_iron": "2024-06-21 10:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-06-21 09:51:51 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]": "2024-06-21 10:02:24 +0000"
     },
     "done": true
   },
