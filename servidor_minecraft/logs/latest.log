@@ -3795,3 +3795,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 09:20:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Isn't It Iron Pick]
 [21Jun2024 09:21:30.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Apothic Affixes]
 [21Jun2024 09:24:15.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu$Arcana
+[21Jun2024 09:37:52.139] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player elsive is f9793f85-3433-458e-9728-6f9fa2553631
+[21Jun2024 09:37:56.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elsive[/127.14.163.45:39893] logged in with entity id 4577 at (-4.5, 79.0, 3.5)
+[21Jun2024 09:37:56.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elsive
+[21Jun2024 09:37:56.164] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elsive
+[21Jun2024 09:37:56.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elsive
+[21Jun2024 09:37:56.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elsive
+[21Jun2024 09:37:56.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elsive
+[21Jun2024 09:37:56.181] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elsive
+[21Jun2024 09:37:56.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elsive
+[21Jun2024 09:37:56.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive joined the game
+[21Jun2024 09:37:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Big Swords R]
+[21Jun2024 09:37:57.026] [Server thread/INFO] [Jade/]: Syncing config to elsive (f9793f85-3433-458e-9728-6f9fa2553631)
+[21Jun2024 09:37:57.030] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to elsive...
+[21Jun2024 09:37:57.032] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[21Jun2024 09:37:57.032] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to elsive
+[21Jun2024 09:38:21.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Made elsive a server operator]
+[21Jun2024 09:38:39.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[21Jun2024 09:38:39.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD was blown up by Creeper
+[21Jun2024 09:38:39.341] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for JV5MD at X: -0.7608229389058677, Y: 80.0, Z: 0.6495551540675368
+[21Jun2024 09:38:39.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has completed the challenge [This is Bonfires]
+[21Jun2024 09:38:41.775] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:38:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive was slain by Zombie
+[21Jun2024 09:38:45.299] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for elsive at X: -4.5, Y: 79.0, Z: 3.5
+[21Jun2024 09:38:45.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has completed the challenge [This is Bonfires]
+[21Jun2024 09:39:04.054] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player JV5MD picking up: PermanentItemEntity['Extradimensional Vessel'/4675, l='ServerLevel[world]', x=-0.76, y=81.50, z=0.65]
+[21Jun2024 09:39:04.055] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/4675, l='ServerLevel[world]', x=-0.76, y=81.50, z=0.65]
+[21Jun2024 09:39:24.901] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Jun2024 09:39:29.786] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player JV5MD picking up: PermanentItemEntity['Extradimensional Vessel'/4692, l='ServerLevel[world]', x=-4.50, y=80.50, z=3.50]
+[21Jun2024 09:39:29.787] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/4692, l='ServerLevel[world]', x=-4.50, y=80.50, z=3.50]
+[21Jun2024 09:39:39.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Teleported JV5MD to Tinnyk]
+[21Jun2024 09:39:44.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported elsive to Tinnyk]
+[21Jun2024 09:40:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement ['X' Marks the Spot]
+[21Jun2024 09:43:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Diamonds!]
+[21Jun2024 09:43:47.794] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Tinnyk#2f2b27a5 to JV5MD_s_Party#8e775e9a
+[21Jun2024 09:43:47.795] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 2f2b27a5-c453-4f7f-82bc-18fc5698a3fa (Tinnyk#2f2b27a5) to 8e775e9a-8559-489e-b891-639521f642ec (JV5MD_s_Party#8e775e9a)
+[21Jun2024 09:43:47.796] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 2f2b27a5-c453-4f7f-82bc-18fc5698a3fa (Tinnyk#2f2b27a5) due to claim limits
+[21Jun2024 09:43:47.796] [Server thread/INFO] [FTB Chunks/]: Team JV5MD_s_Party#8e775e9a had 0 claimed chunks, now has 0
+[21Jun2024 09:43:51.184] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from elsive#f9793f85 to JV5MD_s_Party#8e775e9a
+[21Jun2024 09:43:51.185] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from f9793f85-3433-458e-9728-6f9fa2553631 (elsive#f9793f85) to 8e775e9a-8559-489e-b891-639521f642ec (JV5MD_s_Party#8e775e9a)
+[21Jun2024 09:43:51.185] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for f9793f85-3433-458e-9728-6f9fa2553631 (elsive#f9793f85) due to claim limits
+[21Jun2024 09:43:51.186] [Server thread/INFO] [FTB Chunks/]: Team JV5MD_s_Party#8e775e9a had 0 claimed chunks, now has 0
+[21Jun2024 09:43:53.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[21Jun2024 09:43:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> hehe
+[21Jun2024 09:43:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> jinny
+[21Jun2024 09:43:59.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> jin ramyun
+[21Jun2024 09:44:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> jinny
