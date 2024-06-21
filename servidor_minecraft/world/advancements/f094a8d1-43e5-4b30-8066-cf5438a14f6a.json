@@ -1013,10 +1013,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-06-21 10:07:50 +0000",
       "rocky_shrubland": "2024-06-20 23:26:03 +0000",
       "clover_patch": "2024-06-21 09:58:34 +0000",
       "mystic_grove": "2024-06-20 23:25:54 +0000",
+      "orchard": "2024-06-21 10:11:58 +0000",
+      "lavender_forest": "2024-06-21 10:11:15 +0000",
       "volcanic_plains": "2024-06-21 09:57:47 +0000",
+      "lavender_field": "2024-06-21 10:10:30 +0000",
       "grassland": "2024-06-21 09:48:42 +0000"
     },
     "done": false
@@ -1048,6 +1052,12 @@
   "darkrpg:iron_boots": {
     "criteria": {
       "darkrpg_iron_boots": "2024-06-21 09:51:54 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_porkchop": {
+    "criteria": {
+      "has_item": "2024-06-21 10:08:30 +0000"
     },
     "done": true
   },
@@ -1163,6 +1173,12 @@
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -1286,9 +1302,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_book": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/misc/acetone_solution": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -1325,6 +1353,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-06-21 09:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 10:08:30 +0000"
     },
     "done": true
   },
@@ -1433,6 +1467,12 @@
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-06-21 10:13:00 +0000"
     },
     "done": true
   },
@@ -1814,6 +1854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "nyfsarcheryplus:recipes/misc/golden_crossbow_upgrade": {
     "criteria": {
       "has_item": "2024-06-21 09:19:29 +0000"
@@ -1940,6 +1986,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-06-21 10:05:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
       "has_iron": "2024-06-21 09:08:29 +0000"
@@ -2003,6 +2055,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-06-21 09:06:20 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-06-21 10:13:00 +0000"
     },
     "done": true
   },
@@ -2156,6 +2214,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-21 09:33:41 +0000"
@@ -2165,6 +2229,12 @@
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
       "generic_revelation": "2024-06-21 09:40:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-21 10:08:30 +0000"
     },
     "done": true
   },
@@ -2288,6 +2358,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2024-06-21 10:13:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2024-06-21 09:08:29 +0000"
@@ -2345,6 +2421,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-06-21 09:08:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-06-21 10:10:23 +0000"
     },
     "done": true
   },
@@ -2423,6 +2505,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-06-21 09:02:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -2612,6 +2700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 10:08:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2024-06-21 09:07:05 +0000"
@@ -2717,6 +2811,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-06-21 09:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-06-21 10:05:45 +0000"
     },
     "done": true
   },
@@ -2858,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
@@ -2882,6 +2988,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/altar_infusion": {
     "criteria": {
       "has_gold": "2024-06-21 09:19:29 +0000"
@@ -2903,6 +3015,12 @@
   "werewolves:recipes/misc/silver_pickaxe": {
     "criteria": {
       "has_sticks": "2024-06-21 09:02:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -2957,6 +3075,12 @@
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2024-06-21 09:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -3127,6 +3251,12 @@
       "darkrpg_more_skeleton": "2024-06-21 09:38:36 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
   },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
@@ -3326,6 +3456,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
@@ -3365,6 +3501,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-21 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2024-06-21 10:05:22 +0000"
     },
     "done": true
   },
@@ -3470,6 +3612,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-06-21 10:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-21 09:09:11 +0000"
@@ -3497,6 +3645,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-06-21 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:book": {
+    "criteria": {
+      "darkrpg_book": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -3543,6 +3697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 10:08:30 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2024-06-21 09:08:29 +0000"
@@ -3558,6 +3718,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-06-21 09:10:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -3606,6 +3772,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_wheat_seeds": {
+    "criteria": {
+      "has_item": "2024-06-21 10:10:23 +0000"
     },
     "done": true
   },
@@ -3663,6 +3835,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-21 10:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-06-21 09:08:28 +0000"
@@ -3693,6 +3871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-06-21 10:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-06-21 09:08:29 +0000"
@@ -3702,6 +3886,12 @@
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2024-06-21 09:54:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -3720,6 +3910,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-06-21 09:41:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },
@@ -3864,6 +4060,12 @@
   "nyfsarcheryplus:recipes/combat/stone_arrowhead": {
     "criteria": {
       "has_item": "2024-06-21 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2024-06-21 10:05:33 +0000"
     },
     "done": true
   },

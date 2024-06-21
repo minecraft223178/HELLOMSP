@@ -17301,3 +17301,180 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 10:03:40.412] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kobolds:kobold_den_large_4 is being run through DFU (hash b5d08e6dd38c83db9d0d4999cfeeff2d0dbda2f3087178a66df4e0dc3576fcb1), this will cause launch time delays
 [21Jun2024 10:05:01.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2024 10:05:01.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 10:05:22.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Tower of Power]
+[21Jun2024 10:05:30.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Tower of Power]
+[21Jun2024 10:05:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has completed the challenge [Pagemaster (Quest)]
+[21Jun2024 10:05:33.335] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[21Jun2024 10:05:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Diamonds!]
+[21Jun2024 10:05:48.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Not a Diamond]
+[21Jun2024 10:05:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Apothic Affixes]
+[21Jun2024 10:05:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Hunt and Gather]
+[21Jun2024 10:06:43.884] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Jun2024 10:07:04.202] [Worker-Main-6/DEBUG] [ModernFix/]: Structure simply_houses:forest_stonemason/forest_stonemason is being run through DFU (hash a78447860cd2bb5a9329f0b7bfde42c4c3e53aa3b511d0a0486de3cdc703d269), this will cause launch time delays
+[21Jun2024 10:07:04.651] [Worker-Main-6/DEBUG] [ModernFix/]: Structure simply_houses:forest_chapel/forest_chapel is being run through DFU (hash 659f7d1262e7cd3178e2dc1a90923171b149329ff58a2a297f430b09402dfd6e), this will cause launch time delays
+[21Jun2024 10:07:04.675] [Worker-Main-6/DEBUG] [ModernFix/]: Structure simply_houses:forest_house/forest_house is being run through DFU (hash 9b6f59561474f32e3fde3dc1ed693ece0699d762be93a08689c1456c2c11d364), this will cause launch time delays
+[21Jun2024 10:07:04.725] [Worker-Main-6/DEBUG] [ModernFix/]: Structure simply_houses:forest_fort/forest_fort_ground is being run through DFU (hash e1ec35f8e3eadbf18c7e736aa3358611c2ac68268c0365b6c3840c872af941dc), this will cause launch time delays
+[21Jun2024 10:07:43.172] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/grove/base_plate is being run through DFU (hash 8d58e65730b97353a91f7a16a6932a05206b18e0201f04d02ea0eac5c38777d4), this will cause launch time delays
+[21Jun2024 10:07:43.268] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/taiga/base_plate is being run through DFU (hash c696035904979394c4ecc3d506d2009e052646afd1b666561d65b07e10196f89), this will cause launch time delays
+[21Jun2024 10:07:43.348] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/iberian/base_plate is being run through DFU (hash 24ee45fa64f34e3e1aac4e02469896e46af6be51ee2fcb004102bf0e6c045f59), this will cause launch time delays
+[21Jun2024 10:07:43.429] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/snowy_beach/base_plate is being run through DFU (hash efecd9053cdde1e653f974f85f54b218ecbccb5ebcabac51791131f1a00ee1ca), this will cause launch time delays
+[21Jun2024 10:07:43.459] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/meadow/base_plate is being run through DFU (hash df0ceae8e838681e4f8dd4c14431774decfa99a9e4366cba93582c6adadce715), this will cause launch time delays
+[21Jun2024 10:07:43.492] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/wooded_badlands/base_plate is being run through DFU (hash 99c4dddde1c6b825620572591e0ca0fb8af377b9a9332e507ae5dd3777e9029b), this will cause launch time delays
+[21Jun2024 10:07:43.511] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/desert/base_plate is being run through DFU (hash 4a6ba8041d86bb7b58bb46f44eb1387d1e1500547bb18c2df4e9fcf6c0b97d4e), this will cause launch time delays
+[21Jun2024 10:07:43.598] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/forest/base_plate is being run through DFU (hash 0a5753bb7ca9c6fa9a8254c57a1b99c31b73947e46565a6f9d861f92207ca052), this will cause launch time delays
+[21Jun2024 10:07:43.746] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/jungle/base_plate is being run through DFU (hash 51b3896194db686d94c76a4d1f1cf94206abc2e10392db52d0278f6c2d97edaf), this will cause launch time delays
+[21Jun2024 10:07:43.874] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/sparse_jungle/base_plate is being run through DFU (hash 10851b17d358ebf99da31ba24183f43e68df5b4ea88fd1dafcfeb3d7a204f71f), this will cause launch time delays
+[21Jun2024 10:07:43.898] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/savanna/base_plate is being run through DFU (hash 9ba74f75a48a768b2b9c622884d82dcce256810b26e0d2ea849ab8dd70d67311), this will cause launch time delays
+[21Jun2024 10:07:43.938] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/swedish/base_plate is being run through DFU (hash 7bbe5d1074795bb106a224836677f596eb214edcb479244fdbe4cc94bd00f133), this will cause launch time delays
+[21Jun2024 10:07:43.994] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/mushroom_fields/base_plate is being run through DFU (hash b760d725d73ca7044be56ac0a402541b78066fadf793e5c09d1c5e3a497cd966), this will cause launch time delays
+[21Jun2024 10:07:44.078] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/tudor/base_plate is being run through DFU (hash 2e635aec7cd9c928a0e1f85b2040f11087463ddbe83a8dbcf0fa4bcdda4b66b8), this will cause launch time delays
+[21Jun2024 10:07:44.133] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/flower_forest/base_plate is being run through DFU (hash 196870aa8df7ccddd84b916d2b639ab1bd1308f6ffa1e98f248c53e162a8daab), this will cause launch time delays
+[21Jun2024 10:07:44.216] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_taiga/base_plate is being run through DFU (hash 76a3bbd60d98bbe842eb3633e39fefd6c607daf35da9eae0abcdba30a155310c), this will cause launch time delays
+[21Jun2024 10:07:44.249] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_slopes/base_plate is being run through DFU (hash 765af0ac54824938fd1ac1b78406fc88a1e1fd7999d8e58cda6e32dbc5f6a46f), this will cause launch time delays
+[21Jun2024 10:07:44.321] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/rustic/base_plate is being run through DFU (hash 9d528db066af5e1af7f04d92059ea0e1be0e63536de733f29482126835511441), this will cause launch time delays
+[21Jun2024 10:07:44.594] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/birch/base_plate is being run through DFU (hash 630514a255a56595578b1a3e9a24c7963f1ae59dbfbedc68975967801b37de00), this will cause launch time delays
+[21Jun2024 10:07:44.699] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/oriental/base_plate is being run through DFU (hash 6211e7c7a3df70dc70bead242994ac8a5600ba477ac3d19128b766f92f4ba880), this will cause launch time delays
+[21Jun2024 10:07:44.859] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/badlands/base_plate is being run through DFU (hash a56be22e1763125b0c5db2f12728b5645216f29e2726239ce921cd903cb93c21), this will cause launch time delays
+[21Jun2024 10:07:44.921] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/sunflower_plains/base_plate is being run through DFU (hash 06f16f97b09a5e8adc7290c708759fc6b5c8159601ef1fdba9bf6c614d2197b1), this will cause launch time delays
+[21Jun2024 10:07:45.054] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/classic/base_plate is being run through DFU (hash 50297fbcc31dc4b890033366c281432ad93936c2ae3603d986ab7aeca867f627), this will cause launch time delays
+[21Jun2024 10:07:45.121] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/swamp/base_plate is being run through DFU (hash a637958631330250aae3cbb1e69cedcd08a2e33a1a78e38b337d1a3ae66139be), this will cause launch time delays
+[21Jun2024 10:07:45.207] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/beach/base_plate is being run through DFU (hash 04f63caa92d93e3371a61edb0f1aa9f76e01e43290dd3787b8bebd76793fb993), this will cause launch time delays
+[21Jun2024 10:07:45.338] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/base_plate is being run through DFU (hash 65ccd928c9ba94aaac2450eae5e52f39206179062f0c5fd804906560ad88386a), this will cause launch time delays
+[21Jun2024 10:07:45.401] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_plains/base_plate is being run through DFU (hash d0d1fb1e575734c3adab9e4e2abce922ec487678e59b03c90521a8fd2e669e78), this will cause launch time delays
+[21Jun2024 10:07:45.518] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/old_growth_taiga/base_plate is being run through DFU (hash 4fab3ae3262ef924648080808305fb2e24b915799758bfbd9c081595b17fa577), this will cause launch time delays
+[21Jun2024 10:07:45.887] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/pillager_outpost_ocean/base_plate is being run through DFU (hash f6771cf443289d3b6e4105472d5434c1ada6691694339598c38a0b509da1447c), this will cause launch time delays
+[21Jun2024 10:08:17.752] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[21Jun2024 10:08:25.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/ai/goals/AttackRangedCrossbowGoal$CrossbowState
+[21Jun2024 10:08:25.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
+[21Jun2024 10:08:25.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$HatType
+[21Jun2024 10:10:01.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 10:10:01.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 10:10:34.151] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Jun2024 10:10:34.198] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Jun2024 10:10:34.204] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[21Jun2024 10:10:35.353] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[21Jun2024 10:10:35.372] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[21Jun2024 10:11:38.160] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[21Jun2024 10:12:03.596] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[21Jun2024 10:12:03.649] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_start_0 is being run through DFU (hash 82efdd0b4cee90e5e68e22a1ff771036a5dd355f840f9a56c321423a5883e5fa), this will cause launch time delays
+[21Jun2024 10:12:03.743] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_part_0 is being run through DFU (hash 0ffa0ef9ae80665fa9c353ab5c7ec1bffe19e10c8b773fcfdb17a11bbcf7c79e), this will cause launch time delays
+[21Jun2024 10:12:03.777] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0 is being run through DFU (hash e4d498c251a42b89b90d4aea20f03b58e9edd152bf50fbd716640369b97d7db1), this will cause launch time delays
+[21Jun2024 10:12:03.964] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[21Jun2024 10:12:03.974] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_well_0 is being run through DFU (hash f2c98b62ae0d1f718a8b66cadd64325dd33b46ffa2174bc5c0fad867b6e32004), this will cause launch time delays
+[21Jun2024 10:12:04.114] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_big_0 is being run through DFU (hash 97ca3567cbb388be84c580456221b46df3e4f79b04df1743a0683c68768051ba), this will cause launch time delays
+[21Jun2024 10:12:04.873] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_straight_0 is being run through DFU (hash 0255d0be940bbb3d61ac3137a7ed12e4ed750cc899abd459ea6da5737f2fc3ee), this will cause launch time delays
+[21Jun2024 10:12:05.070] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_0 is being run through DFU (hash 743b98ed67dc8d4fa6895ef863e2fd15aeefec076f98784628a49a6f1b57d6eb), this will cause launch time delays
+[21Jun2024 10:12:05.366] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_0 is being run through DFU (hash ed8131990a308c38696bda81118b71a38fca0d13f70cc445daf62e0c4b16c211), this will cause launch time delays
+[21Jun2024 10:12:05.476] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_2 is being run through DFU (hash 3fca19fa6138014dc68db7204b38877d6217ba208c1cc2e96eaba58b9db05979), this will cause launch time delays
+[21Jun2024 10:12:05.561] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_6_main is being run through DFU (hash 95b2db72dc9e5f8b3ebefc1ca0e863a6b019689f1b27f3df017b2feb67f146bf), this will cause launch time delays
+[21Jun2024 10:12:05.570] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_ladders_0 is being run through DFU (hash 11164b71518e700dd180d13f05bd869ae125eb4d3618f9ac5037fc48d8b0cc55), this will cause launch time delays
+[21Jun2024 10:12:05.577] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[21Jun2024 10:12:05.650] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[21Jun2024 10:12:06.033] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_13 is being run through DFU (hash 33537b62427ed79a11fdfbd7bd7e834741242df13ed02a10fc9fa58b6e060bbf), this will cause launch time delays
+[21Jun2024 10:12:07.968] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:keep_kayra/keep_kayra_main_0 is being run through DFU (hash adaf93d65bc438dd5ad962fbe791a1e44f4e54fa8279dfc9b8fcae02d6813256), this will cause launch time delays
+[21Jun2024 10:12:11.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[21Jun2024 10:12:20.922] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_crossing_start_0 is being run through DFU (hash 5508fdbbe23d2c2fc780fe48a23f9d621456ca6e0aa6ac196e72cf59f1017277), this will cause launch time delays
+[21Jun2024 10:12:21.325] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[21Jun2024 10:12:21.409] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit is being run through DFU (hash dae2d72b198c77a2d8d771f3da2322814f13e3635deb04fa22d1386c01bf95e1), this will cause launch time delays
+[21Jun2024 10:12:21.451] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[21Jun2024 10:12:21.527] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_2 is being run through DFU (hash a022039109e0754e712826ad7f35f6d19a5ffb34cb66ac5a3bee2174a89b9f5c), this will cause launch time delays
+[21Jun2024 10:12:21.559] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0 is being run through DFU (hash ba25d48fb64bb6f5a4173a32e12e7773d75c432e796bbb5ae067c0d8c67fc7f8), this will cause launch time delays
+[21Jun2024 10:12:21.649] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_1_middle is being run through DFU (hash e4b60f0c9f9a13df5b86ff0f89d3c3d837c06fb6f865b22ecf738864b7d042df), this will cause launch time delays
+[21Jun2024 10:12:21.827] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_1 is being run through DFU (hash 8d1e717f7f690c4ecf038323a31ea2af8a2b26e4aa1514c6368f1507f1d22106), this will cause launch time delays
+[21Jun2024 10:12:21.861] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
+[21Jun2024 10:12:21.934] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_0 is being run through DFU (hash 8fa188369b14e9fd33fc26d16e7a5b3589222ecaf1739e731218c7fc9bdc42be), this will cause launch time delays
+[21Jun2024 10:12:22.269] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 325a5da046a550524137fdf7cebbc04fbeb42dc8d25dda67bc942152fd20b6d1), this will cause launch time delays
+[21Jun2024 10:12:22.313] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[21Jun2024 10:12:22.344] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_1 is being run through DFU (hash b7db42b3373133cc4ecbb0b1e74c85081a95b5502212dbcd1aca0d405e0dfed7), this will cause launch time delays
+[21Jun2024 10:12:22.536] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_13 is being run through DFU (hash 0d47188f34bbe000059890b534c886c94745009000c4bf5bce68ca12facfb932), this will cause launch time delays
+[21Jun2024 10:12:26.255] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[21Jun2024 10:12:27.940] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[21Jun2024 10:12:30.740] [Worker-Main-6/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/tower is being run through DFU (hash 5d93cca423ed17bce1bf0b0c38a02c54997ed2450c61ccc16024f5e0a6da5c73), this will cause launch time delays
+[21Jun2024 10:12:31.098] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of ava:yellow_robot_container
+[21Jun2024 10:12:35.174] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ava:dark_blue_robot_container
+[21Jun2024 10:12:36.560] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[21Jun2024 10:12:39.987] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of ava:blue_robot_container
+[21Jun2024 10:12:41.455] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[21Jun2024 10:12:46.841] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[21Jun2024 10:12:55.319] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[21Jun2024 10:13:02.015] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[21Jun2024 10:13:13.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kobolds:kobold_den_large_4
+[21Jun2024 10:13:19.322] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[21Jun2024 10:13:19.336] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[21Jun2024 10:13:19.375] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[21Jun2024 10:13:19.403] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[21Jun2024 10:13:19.442] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[21Jun2024 10:13:19.470] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[21Jun2024 10:13:19.506] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[21Jun2024 10:13:19.526] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[21Jun2024 10:13:22.218] [Worker-Main-10/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/tower is being run through DFU (hash 057353f039449d802a124e196b5753dd1bf4e80064f499a3f024c9cdca56fe08), this will cause launch time delays
+[21Jun2024 10:13:28.897] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:fountain is being run through DFU (hash 248fae013d490640ef520b36cdf7de452a154707bc603e77e296565f69ec3a78), this will cause launch time delays
+[21Jun2024 10:13:28.934] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:bridge_2 is being run through DFU (hash e36b04ced1e7fe429cc84a78f0e04d8672dbb859d2f34a4cf12426accfab48e4), this will cause launch time delays
+[21Jun2024 10:13:28.944] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:bridge_5 is being run through DFU (hash 4a9bdcc4eb8ee2e53b0d776429eb4c24a289d02ba6499b363f354762b0c1102d), this will cause launch time delays
+[21Jun2024 10:13:28.979] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:bridge_1 is being run through DFU (hash af4e6190fbc693051482d7522e51f3a3feb1eb1375f1c5f753fbbcd8ea8f247a), this will cause launch time delays
+[21Jun2024 10:13:28.997] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:bridge_3 is being run through DFU (hash 56dd53957035b9ca7f98a5bb9160469a0b155a7b450de39a9c452b41e5e974b6), this will cause launch time delays
+[21Jun2024 10:13:29.004] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:librarian_2 is being run through DFU (hash 3b3640734c21cbfb8e1bbc63545c5ccfec116441ecf3c87648a7bd256216d678), this will cause launch time delays
+[21Jun2024 10:13:29.144] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:cartographer_1 is being run through DFU (hash 2693c0cde0c95b4a4225ff4b6384abe22ad156204cfb9b64ae1dd6b69167bda2), this will cause launch time delays
+[21Jun2024 10:13:29.226] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:weaponsmith_1 is being run through DFU (hash a693331ef064b0e04510d0bb0c935cdc53217bac1247efbdc971cf1d67fc6a61), this will cause launch time delays
+[21Jun2024 10:13:29.305] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:loom_1 is being run through DFU (hash 2f17375903302a47efc64dcbdc378c5df091c2e62cd9cac9b94cecbdd9f6d658), this will cause launch time delays
+[21Jun2024 10:13:29.371] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:house_1 is being run through DFU (hash e0d018d691d339b3326f5a20c91bb0d8068955123cda3b6fc32b190972f8d04c), this will cause launch time delays
+[21Jun2024 10:13:29.444] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:farm_1 is being run through DFU (hash 44099564ffff02422c306c88c8021c9eec4971cd056e0632d7ec9c52b9fa8170), this will cause launch time delays
+[21Jun2024 10:13:29.476] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:weaponsmith_2 is being run through DFU (hash bce7070dd63b91856b59abdeee66b77dae520cc9e8da8c21eb61e83ea2fd6d57), this will cause launch time delays
+[21Jun2024 10:13:29.523] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:mason_1 is being run through DFU (hash cf1a15b57a67dca9fe772d3018c4aa592d2ecbf22ce52e85a8904f3c5ae66518), this will cause launch time delays
+[21Jun2024 10:13:29.564] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:fletcher_1 is being run through DFU (hash 250e68bbf03b93adc535c68be848c92ab233236f3d0ee6af4047dc715e55d706), this will cause launch time delays
+[21Jun2024 10:13:29.598] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:librarian_1 is being run through DFU (hash 8d731e9cd0b4a6341b6f6d1bec3829c415babb8147d5ad482a7e143dee50d299), this will cause launch time delays
+[21Jun2024 10:13:29.646] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:alchemist_1 is being run through DFU (hash 10f2e9b2591b15cc0f7c1b45ac0d3b95911252f448ad1154fc671d15b6e001ed), this will cause launch time delays
+[21Jun2024 10:13:29.688] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:farm_2 is being run through DFU (hash 618ec53c34286b61e96a344892abbd1c2674a00277164b041fb4fd8ba57b2fab), this will cause launch time delays
+[21Jun2024 10:13:29.719] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:farm_3 is being run through DFU (hash 9ee4544ae9c7926047e40bba09b7344776118541f86a3faae11d209a172e6dcb), this will cause launch time delays
+[21Jun2024 10:13:29.821] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:bridge_4 is being run through DFU (hash 13dee1ca5ce72cb4f4d758108d5ac4fc72cd77df7b3eb198ec9073414f913d8a), this will cause launch time delays
+[21Jun2024 10:13:29.951] [Worker-Main-7/DEBUG] [ModernFix/]: Structure skyvillages:villager is being run through DFU (hash 0a822caa9a4562e390287b260e56ab6afb12a4be0dfd999950f23e6f25e91874), this will cause launch time delays
+[21Jun2024 10:13:33.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[21Jun2024 10:13:34.040] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[21Jun2024 10:13:56.125] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:taiga_inn/taiga_inn
+[21Jun2024 10:13:56.138] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:taiga_forge/taiga_forge
+[21Jun2024 10:13:56.150] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:taiga_house/taiga_house
+[21Jun2024 10:13:56.156] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:taiga_woodcutter/taiga_woodcutter
+[21Jun2024 10:13:57.633] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[21Jun2024 10:13:57.643] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[21Jun2024 10:13:57.659] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[21Jun2024 10:13:57.667] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2 is being run through DFU (hash 99a73071c936cce13d0fe411dd0abd4ba4c9b01f141b34049391fc7eaa3b9ab9), this will cause launch time delays
+[21Jun2024 10:13:57.697] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[21Jun2024 10:13:57.701] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3 is being run through DFU (hash 59a9a0d79ad86ad99a3e7ebba5f11a9d6d1909779d13188a935a9a0d8534be30), this will cause launch time delays
+[21Jun2024 10:13:57.709] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[21Jun2024 10:13:57.713] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[21Jun2024 10:13:57.718] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[21Jun2024 10:13:57.737] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[21Jun2024 10:13:57.750] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[21Jun2024 10:13:57.754] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[21Jun2024 10:13:57.761] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[21Jun2024 10:13:57.773] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/base_plate is being run through DFU (hash 0f79c597cd698f620e1aa221757014730fe867fed381df9c0ea0afc82a4d720e), this will cause launch time delays
+[21Jun2024 10:13:57.911] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[21Jun2024 10:13:57.931] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[21Jun2024 10:13:57.942] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[21Jun2024 10:13:57.962] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[21Jun2024 10:13:57.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[21Jun2024 10:13:57.973] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[21Jun2024 10:13:57.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[21Jun2024 10:13:57.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[21Jun2024 10:13:59.550] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kobolds:kobold_den_small_4 is being run through DFU (hash 30249c6929de5aba60b535c3cfba03da51d33cd4c2dea87cdcbcdaf3055b4126), this will cause launch time delays
+[21Jun2024 10:14:02.675] [Worker-Main-8/DEBUG] [mixin/]: Mixing optimizations.sync_loads.SleepInBedMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[21Jun2024 10:14:02.679] [Worker-Main-8/DEBUG] [mixin/]: servercore.common.mixins.json:optimizations.sync_loads.SleepInBedMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Jun2024 10:14:06.465] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[21Jun2024 10:14:28.370] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_house/forest_house
+[21Jun2024 10:14:30.161] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Jun2024 10:14:30.213] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[21Jun2024 10:14:38.448] [Worker-Main-1/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[21Jun2024 10:14:38.480] [Worker-Main-1/DEBUG] [mixin/]: Mixing VillagerGoalHackMixin from sawmill-common.mixins.json into net.minecraft.world.entity.ai.behavior.StrollToPoi
+[21Jun2024 10:14:38.500] [Worker-Main-1/DEBUG] [mixin/]: Mixing StayNearPointTaskMixin from blue_skies.mixins.json into net.minecraft.world.entity.ai.behavior.SetWalkTargetFromBlockMemory
+[21Jun2024 10:14:38.548] [Worker-Main-1/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[21Jun2024 10:14:38.557] [Worker-Main-1/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Jun2024 10:14:38.631] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Jun2024 10:14:38.641] [Worker-Main-1/DEBUG] [Nyf's Genetics/]: Loaded com.nyfaria.nyfsgenetics.platform.ForgePlatformHelper@2ae367f for service interface com.nyfaria.nyfsgenetics.platform.services.IPlatformHelper
+[21Jun2024 10:14:45.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[21Jun2024 10:14:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Teleported JV5MD to Tinnyk]
+[21Jun2024 10:14:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported elsive to Tinnyk]
+[21Jun2024 10:15:03.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2024 10:15:03.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2024 10:15:07.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[21Jun2024 10:15:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> rip chococraft
+[21Jun2024 10:15:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> </3

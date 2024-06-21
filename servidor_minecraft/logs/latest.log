@@ -3877,3 +3877,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Jun2024 10:01:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Tower of Power]
 [21Jun2024 10:02:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has made the advancement [Acquire Hardware]
 [21Jun2024 10:02:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tinnyk has completed the challenge [Pagemaster (Quest)]
+[21Jun2024 10:05:22.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Tower of Power]
+[21Jun2024 10:05:30.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Tower of Power]
+[21Jun2024 10:05:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has completed the challenge [Pagemaster (Quest)]
+[21Jun2024 10:05:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Diamonds!]
+[21Jun2024 10:05:48.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JV5MD has made the advancement [Not a Diamond]
+[21Jun2024 10:05:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Apothic Affixes]
+[21Jun2024 10:05:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elsive has made the advancement [Hunt and Gather]
+[21Jun2024 10:08:25.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/ai/goals/AttackRangedCrossbowGoal$CrossbowState
+[21Jun2024 10:08:25.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
+[21Jun2024 10:08:25.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$HatType
+[21Jun2024 10:12:11.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[21Jun2024 10:14:38.631] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Jun2024 10:14:45.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[21Jun2024 10:14:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JV5MD: Teleported JV5MD to Tinnyk]
+[21Jun2024 10:14:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tinnyk: Teleported elsive to Tinnyk]
+[21Jun2024 10:15:07.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[21Jun2024 10:15:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> rip chococraft
+[21Jun2024 10:15:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elsive> </3
